@@ -1,0 +1,9 @@
+
+#to calculate simple interest (2 march 2023)
+print("enter the following amount to calculate simple intrest")
+P=int(input("enter the princile amount: "))
+T=int(input("enter time: "))
+R=int(input("enter rate: "))
+simple_interest=(PTR/100)
+print("the simple interest is ",simple_interest)
+
